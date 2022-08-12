@@ -21,3 +21,5 @@ Author: RajKumar
 9. Block the spam users.
 
 10. Adding options to create groups upto 200 users.
+
+11. Last seen disable
