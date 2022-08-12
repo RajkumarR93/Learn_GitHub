@@ -19,3 +19,5 @@ Author: RajKumar
 8. Adding status so that user can play train games and video games
 
 9. Block the spam users.
+
+10. Adding options to create groups upto 200 users.
